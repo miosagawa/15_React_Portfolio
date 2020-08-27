@@ -39,7 +39,7 @@ const projects = [
         "summary": "This website generates a ramdom password. Javasxript create a password between 8 and 128 characters. To create a password, just click the red generate password button. Password has at least one small character, one big character, one number and one special character.",
         "techUsed": "Design / Coding(Responsive) / HTML,CSS,JavaScript",
         "githubLink": "https://github.com/miosagawa/03_Password-Generator.git",
-        "deployedLink": "https://miosagawa.github.io/03_Password-Generator/Develop/index.html"
+        "deployedLink": "https://miosagawa.github.io/03_Password-Generator/index.html"
     },
     {
         "id": 5,
