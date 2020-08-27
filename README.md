@@ -1,7 +1,7 @@
 Folder update content:
 Update date：Aug 19, 2020
 
-URL:https://miosagawa.github.io/15_React_Portfolio/index.html
+URL:https://react-portfolio-sagawa.herokuapp.com/
 
 Github:https://github.com/miosagawa/15_React_Portfolio.git
 
